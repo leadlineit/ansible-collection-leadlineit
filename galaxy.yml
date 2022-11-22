@@ -1,0 +1,23 @@
+---
+namespace: leadlineit
+name: leadlineit
+description: Ansible collection for leadlineit.roles
+version: 1.0.0
+readme: README.md
+authors:
+  - Artem Kasianchuk <a.kasianchuk@leadlineit.com>
+  - Stanislav Stavnichuk
+license:
+  - GPL-2.0-or-later
+# license_file: ''
+tags:
+  - collection
+  - ansible
+  - roles
+  - leadlineit
+# dependencies: {}
+repository: https://github.com/leadlineit/ansible-collection-leadlineit
+documentation: https://github.com/leadlineit/ansible-collection-leadlineit
+homepage: https://github.com/leadlineit/ansible-collection-leadlineit
+issues: https://github.com/leadlineit/ansible-collection-leadlineit/issues
+# build_ignore: []

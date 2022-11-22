@@ -1,2 +1,3 @@
-# ansible-collection-leadlineit
-Ansible Collection with leadlineit.roles for Galaxy.
+# Ansible Collection - mynamespace.mycollection
+
+Documentation for the collection.
